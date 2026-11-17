@@ -6,10 +6,10 @@ Link Github: https://github.com/Zaqpurpur-Neo/mandiri-laras
 
 
 ### Tampilan Website
-![Gambar 1](screenshots/img1.png)
-![Gambar 2](screenshots/img2.png)
-![Gambar 3](screenshots/img3.png)
-![Gambar 4](screenshots/img4.png)
-![Gambar 5](screenshots/img5.png)
-![Gambar 6](screenshots/img6.png)
-![Gambar 7](screenshots/img7.png)
+![Gambar 1](screenshoots/img1.png)
+![Gambar 2](screenshoots/img2.png)
+![Gambar 3](screenshoots/img3.png)
+![Gambar 4](screenshoots/img4.png)
+![Gambar 5](screenshoots/img5.png)
+![Gambar 6](screenshoots/img6.png)
+![Gambar 7](screenshoots/img7.png)
