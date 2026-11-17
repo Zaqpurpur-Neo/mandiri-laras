@@ -1,8 +1,8 @@
 # Website Mandiri Laras
 
 Website Kerajinan Bambu
-Link Website: https://mandiri-laras.netlify.app/
-Link Github: https://github.com/Zaqpurpur-Neo/mandiri-laras
+- Link Website: https://mandiri-laras.netlify.app/
+- Link Github: https://github.com/Zaqpurpur-Neo/mandiri-laras
 
 
 ### Tampilan Website
